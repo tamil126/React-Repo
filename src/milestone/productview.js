@@ -33,7 +33,7 @@ export function Taskproduct() {
                 </div>
                 <div className="col-lg-6">
                     <h1 className="card-title">{fetchvalue.title}</h1>
-                    <p className="card-content mt-4 pri text-danger">{fetchvalue.price}</p>
+                    <p className="card-content mt-5 pri text-danger">{fetchvalue.price}</p>
                     <p className="card-content">{fetchvalue.description}</p>
                     <p className="card-content">{fetchvalue.category}</p>
 
