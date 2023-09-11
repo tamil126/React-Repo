@@ -35,7 +35,7 @@ function DataDownloaders() {
             </div>
 
             <div>
-                <table className='table table-striped mt-4'>
+                <table className='table table-striped mt-3'>
                     <thead>
                         <tr>
                             <th>Images</th>
